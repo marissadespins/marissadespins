@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Marissa Despins"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : "PhD Candidate" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Ocean Science Department"
+  location         : "Santa Cruz, California"
+  employer         : "Ocean Science Department, University of California, Santa Cruz"
   uri              : # URL
   email            : "none@example.org" 
 
