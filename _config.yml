@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Marissa Despins"
+  name             : "Marissa Despins (she/her)"
   pronouns         : "PhD Candidate" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Santa Cruz, California"
   employer         : "Ocean Science Department, University of California, Santa Cruz"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mdespins@ucsc.edu" 
 
   # Academic websites
   academia         : # URL
